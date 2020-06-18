@@ -81,6 +81,8 @@ brew install xz
 # Install other useful binaries.
 brew install ack
 #brew install exiv2
+brew install fzf
+$(brew --prefix)/opt/fzf/install
 brew install git
 brew install git-lfs
 brew install gs
