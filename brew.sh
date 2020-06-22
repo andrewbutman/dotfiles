@@ -86,6 +86,7 @@ brew install fzf
 $(brew --prefix)/opt/fzf/install
 brew install git
 brew install git-lfs
+brew install gpg2
 brew install gs
 brew install imagemagick --with-webp
 brew install lua
