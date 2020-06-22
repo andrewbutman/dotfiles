@@ -103,8 +103,12 @@ brew install the_silver_searcher
 brew install tree
 brew install --HEAD universal-ctags/universal-ctags/universal-ctags
 brew install vbindiff
-brew install visual-studio-code
+
 brew install zopfli
+
+# install personal software
+brew install google-chrome
+brew install visual-studio-code
 
 # Remove outdated versions from the cellar.
 brew cleanup
