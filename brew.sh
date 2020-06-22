@@ -81,6 +81,7 @@ brew install xz
 # Install other useful binaries.
 brew install ack
 #brew install exiv2
+brew install fd
 brew install fzf
 $(brew --prefix)/opt/fzf/install
 brew install git
@@ -91,12 +92,17 @@ brew install lua
 brew install lynx
 brew install p7zip
 brew install pigz
+brew install pinentry-mac
 brew install pv
 brew install rename
+brew install ripgrep
 brew install rlwrap
 brew install ssh-copy-id
+brew install the_silver_searcher
 brew install tree
+brew install --HEAD universal-ctags/universal-ctags/universal-ctags
 brew install vbindiff
+brew install visual-studio-code
 brew install zopfli
 
 # Remove outdated versions from the cellar.
