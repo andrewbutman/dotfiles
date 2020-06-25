@@ -59,6 +59,7 @@ brew install gpg2
 # install personal software
 brew cask install google-backup-and-sync
 brew cask install google-chrome
+brew cask install macs-fan-control
 brew cask install microsoft-office
 brew cask install microsoft-teams
 brew cask install visual-studio-code
