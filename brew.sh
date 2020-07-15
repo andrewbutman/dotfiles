@@ -48,21 +48,28 @@ brew install php
 brew install gmp
 
 # Install other useful binaries.
+brew install git
+brew install git-lfs
+brew install gpg2
+brew install tree
 
 # fuzzy search
 brew install fzf
 $(brew --prefix)/opt/fzf/install
-brew install git
-brew install git-lfs
-brew install gpg2
 
 # install personal software
+brew cask install canary
+brew cask install discord
+brew cask install firefox
 brew cask install google-backup-and-sync
 brew cask install google-chrome
+brew cask install keep
+brew cask install lastpass
 brew cask install macs-fan-control
 brew cask install microsoft-office
 brew cask install microsoft-teams
 brew cask install visual-studio-code
+brew cask install zoom
 
 # Remove outdated versions from the cellar.
 brew cleanup
